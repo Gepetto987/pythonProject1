@@ -1,5 +1,8 @@
 import numpy as np
 
+def piotrp():
+    print("Piotr P")
+
 def printText(text: str):
     print(text)
 
